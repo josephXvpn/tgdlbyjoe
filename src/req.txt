@@ -1,0 +1,9 @@
+yt_dlp
+moviepy
+flask
+pyrogram
+TGCrypto
+wget
+scikit-image
+bs4
+opencv-python
